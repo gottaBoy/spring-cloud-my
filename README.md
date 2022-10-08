@@ -26,7 +26,7 @@ Nacos
 ### 配置中心管理
 Config
 
-Appolo
+Apollo
 
 Nacos
 
